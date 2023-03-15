@@ -1,1 +1,1 @@
-A submission for the Shell DigData Data Science Project. The project consists of Exploratory Data Analysis and presentation.
+A submission for the Shell DigData Data Science Project. The aim of the project was to implement a profit-optimising strategy for Shell to both satisfy interior hydrogen demands and make money through selling electricity to the grid.
